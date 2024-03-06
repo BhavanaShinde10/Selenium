@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Zigzag {
 	public static void main(String[]args)
 	{
-		int[]ar1= {1,2,3,4,5,6};
+		int[]ar1= {1,2,3,4,5};
 		
 		int []ar2= {9,8,7,6,0};
 		int ans[]=new int[ar1.length+ar2.length];
